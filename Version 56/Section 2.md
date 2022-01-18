@@ -2,6 +2,7 @@
 (1) This Act comes into force on 26 November 2018.
 
 (2) However, the following specified provisions come into force on the day after the date on which this act receives the Royal assent:
+
     (a) section 7 (directions):
     (b)⁠ sections 99 to 102 (notices):
     (c) ⁠section 372 (directions):
