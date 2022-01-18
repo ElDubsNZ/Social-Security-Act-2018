@@ -4,13 +4,21 @@
 (2) However, the following specified provisions come into force on the day after the date on which this act receives the Royal assent:
 
     (a) section 7 (directions):
+    
     (b)⁠ sections 99 to 102 (notices):
+    
     (c) ⁠section 372 (directions):
+    
     (d)⁠section 380 (directions):
+    
     (e)⁠sections 418 to 454 (regulations, directions, notices, and orders):
+    
     (f)⁠clause 54 of Schedule 1 (orders):
+    
     (g)⁠clause 68 of Schedule 1 (regulations):
+    
     (h)⁠clauses 15 and 17 of Schedule 3 (rules):
+    
     (i)⁠clauses 10(3) and 18 of Schedule 6 (regulations and orders):
     
 (3)⁠A power that is conferred by those specified provisions, and that is exercised on or after the day after the date on which this Act receives the Royal assent and before 26 November 2018, may be exercised only with effect on or after 26 November 2018.
