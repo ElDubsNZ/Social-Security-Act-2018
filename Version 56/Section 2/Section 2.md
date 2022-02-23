@@ -1,8 +1,21 @@
 # 2 Commencement
-<ol type="(1)">
+<style>
+ol.roman {
+    counter-reset: roman;
+}
+ol li {
+    list-style: none;
+    position: relative;
+}
+ol.roman > li:before {
+    counter-increment: roman;
+    content:"(" counter(roman, lower-roman)") "
+}
+</style>
+<ol>
   <li>This Act comes into force on 26 November 2018.</li>
   <li>However, the following specified provisions come into force on the day after the date on which this act receives the Royal assent:</li>
-  <ol type="a">
+  <ol type="roman">
     <li>section 7 (directions):</li>
     <li>sections 99 to 102 (notices):</li>
     <li>⁠section 372 (directions):</li>
