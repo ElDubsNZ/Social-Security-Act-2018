@@ -1,5 +1,5 @@
 # 2 Commencement
-<ol type="1">
+<ol type="(1)">
   <li>This Act comes into force on 26 November 2018.</li>
   <li>However, the following specified provisions come into force on the day after the date on which this act receives the Royal assent:</li>
   <ol type="a">
