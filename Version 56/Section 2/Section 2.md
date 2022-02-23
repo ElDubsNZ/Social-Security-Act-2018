@@ -12,6 +12,7 @@ ol.roman > li:before {
     content:"(" counter(roman, lower-roman)") "
 }
 </style>
+<mark>
 <ol>
   <li>This Act comes into force on 26 November 2018.</li>
   <li>However, the following specified provisions come into force on the day after the date on which this act receives the Royal assent:</li>
@@ -28,3 +29,4 @@ ol.roman > li:before {
   </ol>
   <li>A power that is conferred by those specified provisions, and that is exercised on or after the day after the date on which this Act receives the Royal assent and before 26 November 2018, may be exercised only with effect on or after 26 November 2018.</li>
 </ol>
+</mark>
