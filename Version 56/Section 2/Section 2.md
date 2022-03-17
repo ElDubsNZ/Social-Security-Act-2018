@@ -16,9 +16,17 @@ ol.roman > li:before {
 <ol>
   <li>This Act comes into force on 26 November 2018.</li>
   <li>However, the following specified provisions come into force on the day after the date on which this act receives the Royal assent:</li>
-  <ol type="roman">
+  <ol type="a">
     <li>section 7 (directions):</li>
     <li>sections 99 to 102 (notices):</li>
+      <ol type="i">
+        <li>Test</li>
+          <ol type="A">
+            <li>Capital</li>
+            <li>Test</li>
+          </ol>
+        <li>ing</li>
+      </ol>
     <li>⁠section 372 (directions):</li>
     <li>section 380 (directions):</li>
     <li>sections 418 to 454 (regulations, directions, notices, and orders):</li>
